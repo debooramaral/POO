@@ -1,0 +1,70 @@
+Onde  e Quando eu vou utilizar?
+
+• linguagem.. paradigmas funcional, multiparadigmas.. o JS pode ser POO
+• quando quiser aplicar padrões de projetos
+• organizar o código
+• entendimento do código, pensando nele como objetos
+• reuso de código
+• separar a complexidade, abtração e expor de maneira mais simples o código
+• rotinas e trechos de códigos
+
+conceitos e paradigmas são fundamentais, não somente códigos
+
+OBJETOS
+- caneta é um objeto
+- propriedades e funcionalidades
+- estado e comportamentos
+- atributos e métodos
+
+Abstrato vs Mundo Real
+
+pessoa, aluno, produto e carrinho de compras são representações do mundo real para objetos; já autenticação e autorização são objetos na programação e não são faceis de identificar, são abstratos
+
+CLASSES
+- molde para objetos
+- exemplo: maquinas de biscoitos, onde você pode colocar todos os ingrediente e no final terá um biscoito, fazendo o molde, a mistura dos ingredientes após um tempo, só coloca os ingredientes e devolve o biscoito pronto, podendo ser varios biscoitos 
+- a maquina de biscoito é a classe e o biscoito é o objeto
+- podemos chamar de instancia essa classe
+
+Classes em Javascript
+- linguagem de programação multiparadigmas, envolve orientação a objetos, paragimas funcional e outros tipos de conceitos
+- syntactial sugar na escrita do prototype, uma maneira bela e mais bonita de se escrever e protótipo, pois em JS os objetos são protótipos, ou seja, é uma cadeia
+
+ENCAPSULAMENTO
+- dirigir o carro vs conhecer o motor do carro
+- colocar numa capsula
+- agrupamento de função e variaveis
+- esconder detalhes de implementação, seria no caso o funcionamento ao dar a partida em um carro por exemplo
+- camada de segurança para os atributos e metodos
+
+Encapsulamento no código Javascript.. muito boa explicação 
+
+Programação Estruturada vc Orientada a Objetos
+
+HERANÇA
+- pais e filhos
+- objetos podem herdar, estender caracteristicas bases
+- uma cópia de atributos e metpodos de outra classe
+- um objeto pode estender de outro objeto que pode estender de outro objeto
+- em JS herança já existe por padrão, prototipo
+- facil reutilização de código
+
+
+POLIMORFISMO
+- quando um objeto estende de outro (herança) talvez haja a necessidade de reescrever uma ou mais caracteristicas (atributos e metodos) nesse novo objeto
+- recriaremos então um método (ou mais) da class herdada
+- polimorfismo significa muitas formas
+
+Polimorfismo com Javascript .. 
+
+ABSTRAÇÃO
+- template ou identidade de uma classe que será construida no futuro (há boatos que esse pilar não devia ser pilar), é uma mascara / esqueleto para ser completada depois, moldando o corpo
+- atributos e metodos podem ser criados na classe de abstração (superclasse)
+- MAS a implementação dos metodos e atributos, só poderá ser feita na classe que irá herdar essa abstração
+
+Abstração com código Javascript
+
+Conclusão
+
+
+ 
